@@ -1,0 +1,44 @@
+{
+   "Format": "2.1.0",
+   "Changes": 
+   [ 
+      {
+         "Action": "EditData",
+         "Target": "Data/Shops",
+         "TargetField": ["Blacksmith", "Items"],
+         "Entries":
+         {
+            "Cooper Bar": 
+            {
+                "Id": "Cooper_Bar",
+                "ItemId": "(O)334",
+                "Price": 300  
+            },
+            "Iron Bar": 
+            {
+                "Id": "Iron_Bar",
+                "ItemId": "(O)335",
+                "Price": 500
+            },
+            "Gold Bar": 
+            {
+                "Id": "Gold_Bar",
+                "ItemId": "(O)336",
+                "Price": 1500
+            },
+            "Iridium Bar": 
+            {
+                "Id": "Iridium_Bar",
+                "ItemId": "(O)337",
+                "Price": 3000
+            },
+            "Radioactive Bar": 
+            {
+                "Id": "Radioactive_Bar",
+                "ItemId": "(O)910",
+                "Price": 5000
+            }
+         }
+      }
+   ]
+}

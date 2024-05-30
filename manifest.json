@@ -1,0 +1,20 @@
+{
+    "Name": "All Bars At Clint's Shop",
+    "Author": "TheArticWolf",
+    "Version": "1.0.0",
+    "Description": "You can buy any bar at Clint's shop",
+    "UniqueID": "TheArticWolf.AllBarsClintShop",
+    "UpdateKeys": [ "Nexus:24657" ],
+    "ContentPackFor": 
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": 
+    [
+        {
+            "UniqueID": "Pathoschild.ContentPatcher",
+            "IsRequired": true,
+            "MinimumVersion": "2.1.0"
+        }
+    ]
+}
