@@ -1,9 +1,9 @@
 {
     "Name": "All Bars At Clint's Shop",
-    "Author": "TheArticWolf",
+    "Author": "KaosKuantico",
     "Version": "1.0.0",
     "Description": "You can buy any bar at Clint's shop",
-    "UniqueID": "TheArticWolf.AllBarsClintShop",
+    "UniqueID": "KaosKuantico.AllBarsClintShop",
     "UpdateKeys": [ "Nexus:24657" ],
     "ContentPackFor": 
     {
