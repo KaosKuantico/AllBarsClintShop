@@ -39,6 +39,32 @@
                 "Price": 5000
             }
          }
+      },
+      {
+        "Action": "EditData",
+         "Target": "Data/Shops",
+         "TargetField": ["Blacksmith", "Items"],
+         "Entries":
+         {
+            "Maple Bar":
+            {
+                "Id": "Maple_Bar",
+                "ItemId": "(O)731",
+                "Price": 1600
+            }
+        },
+        "When":
+        {
+            "EnableMapleBar": "true"
+        }
       }
-   ]
+   ],
+   "ConfigSchema":
+   {
+        "EnableMapleBar":
+        {
+            "AllowValues": "true, false",
+            "Default": "false"
+        }
+   }
 }
